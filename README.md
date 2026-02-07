@@ -20,8 +20,4 @@
 <br />
 <br />
 
-### 📊 Статистика (для галочки)
-<!-- Можно использовать любую сервисную карточку, например от https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maesenas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <sub>⚡ **Интересный факт:** Мой первый `"Hello, World!"` был написан на бумаге, потому что компьютера еще не было. Шучу. Но ощущение, что так и было.</sub>
