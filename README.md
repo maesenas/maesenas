@@ -1,52 +1,69 @@
-<!--## Hi there 👋
+# 👋 Привет, я [Твое Имя/Ник]
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Пожилой+боевой+инженер;Создаю+работающий+код;Люблю+кофе+и+простые+решения" alt="Typing SVG" />
+</p>
 
-**maesenas/maesenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=maesenas&color=blue&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/maesenas?label=Follow&style=social)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Привет, землянин. 👋
+## 📊 **Динамическая статистика**
 
-**`Пожилой боевой инженер (Senior Software Engineer)`**
+<table>
+  <tr>
+    <td width="50%">
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=maesenas&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <!-- Most Used Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maesenas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css,scss" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <!-- Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maesenas&theme=dark&hide_border=true&background=0d1117&fire=22C55E&stroke=22C55E" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-### 🧠 Философия
-*   **Правило бойца:** Если оно работает в продакшене и покрыто тестами — не трогай.
-*   **Мой цикл разработки:** `Понял проблему -> Написал решение -> Выпил кофе -> Забыл о проблеме.`
-*   **Любимая архитектура:** Та, которую не нужно объяснять джунам на диаграммах.
-*   **Рефакторинг:** "А давайте перепишем это на (вставьте модный фреймворк)" — лучший способ провести бессонную неделю.
+## 🛠 **Мой стек (живые иконки)**
 
-### ⚙️ Технологии и инструменты, которые я... терплю
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<br />
-<br />
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <br/>
+  
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <br/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+</p>
 
-### 📊 Статистика (для галочки)
-<!-- Можно использовать любую сервисную карточку, например от https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maesenas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 **Активность (WakaTime)**
 
-### 📮 Контакты (если очень надо)
-*   **Телеграм:** [@ваш_ник](https://t.me/ваш_ник) — Отвечаю, когда отпускает `Deadline`.
-*   **Почта:** `your.email@example.com` — Для официальных жалоб.
-*   **Резюме:** Спросите в личку. Содержит раздел "Легаси-системы, которые я поддерживаю и проклинаю".
+<!-- Вставьте свой WakaTime статистику -->
+<!-- Для этого нужен WakaTime API ключ и скрипт -->
+<!-- Можно использовать готовые решения: https://github.com/anmol098/waka-readme-stats -->
 
----
-
-<sub>⚡ **Интересный факт:** Мой первый `"Hello, World!"` был написан на бумаге, потому что компьютера еще не было. Шучу. Но ощущение, что так и было.</sub>
+```text
+🕐 Время кодинга на этой неделе: 42 часа
+🔥 Самая продуктивная среда: 8 часов
+💤 Среднее время сна: 5.5 часов
+☕ Выпито кофе: 28 чашек
